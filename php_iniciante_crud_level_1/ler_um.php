@@ -63,12 +63,6 @@
                     <a href='index.php' class='btn btn-danger'>Voltar para ler produtos</a>
                 </td>
             </tr>
-            <tr>
-                <td></td>
-                <td>
-                    <a href="index.php" class="btn btn-danger">Retorno</a>
-                </td>
-            </tr>
         </table>
 
         <!-- Tabela HTML para exibir um registro estará aqui -->
